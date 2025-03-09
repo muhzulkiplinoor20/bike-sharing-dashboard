@@ -1,1 +1,1 @@
-streamlit\npandas\nseaborn\nmatplotlib\npyngrok
+streamlit\npandas\nseaborn\nmatplotlib\nnumpy\nscipy\nscikit-learn
